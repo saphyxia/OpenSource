@@ -1,12 +1,16 @@
 # OpenSource
 ## 开源参考汇总
 
+### 技术报告开源
+
 | 技术报告                                                     | 开源链接                                                     |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
 | <span style="display:inline-block;width:320px"> RM2021哈工程创梦之翼全国赛步兵技术报告开源</span> | <span style="display:inline-block;width:300px"> https://bbs.robomaster.com/forum.php?mod=viewthread&tid=12286&extra=page%3D2%26filter%3Dtypeid%26orderby%3Ddateline</span> |
 | <span style="display:inline-block;width:320px"> RM2022南京理工大学-Alliance-技术报告开源</span> | <span style="display:inline-block;width:300px">https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22190&extra=page%3D1%26filter%3Dtypeid%26orderby%3Ddateline </span> |
 | <span style="display:inline-block;width:320px"> RM2022广东工业大学DynamicX机器人队 技术报告开源</span> | <span style="display:inline-block;width:300px">https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22176&extra=page%3D1%26filter%3Dtypeid%26orderby%3Ddateline</span> |
 | <span style="display:inline-block;width:320px"> RM2022西交利物浦大学共轴麦轮平衡步兵开源</span> | <span style="display:inline-block;width:300px">https://bbs.robomaster.com/forum.php?mod=viewthread&tid=22139&extra=page%3D1</span> |
+
+### 软件方案开源
 
 | 软件方案                                                     | 开源链接                                                     |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
